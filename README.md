@@ -1,5 +1,9 @@
 # VK Post Checker
 
+## About the program
+
+I spent an evening and the following morning writing this program. I was experimenting with VK API - there was a need for getting posts from private groups using a token of a person which is a member of that group - me in this particular case.
+
 ## How to set up
 
 it's relatively easy. First, you need to go to vkposts.py and insert the id of the group you want to get posts from, then your token.
